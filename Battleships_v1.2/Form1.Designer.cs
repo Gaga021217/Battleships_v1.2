@@ -647,7 +647,6 @@ namespace Battleships_v1._2
             this.Name = "Form1";
             this.Text = "Torpedó";
             this.ResumeLayout(false);
-
         }
 
         #endregion
